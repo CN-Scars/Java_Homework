@@ -1,10 +1,10 @@
 package org.scars.FeedAnimals.Food;
 
-public class Fish implements Food {
-    private String name;
+import org.scars.FeedAnimals.Animal.Animal;
 
+public class Fish extends Animal implements Food {
     public Fish(String name) {
-        this.name = name;
+        super(name);
     }
 
     @Override
