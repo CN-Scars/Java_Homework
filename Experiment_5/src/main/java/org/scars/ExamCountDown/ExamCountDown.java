@@ -15,8 +15,8 @@ public class ExamCountDown {
     }
 
     private static void countDownUsingPeriod(LocalDate currentDate, LocalDate examDate) {
-        long daysBetween = Period.between(currentDate, examDate).getDays(); // 计算天数
-        System.out.println("使用Period类，距离2024高考还剩下" + daysBetween + "天");
+        Period period = Period.between(currentDate, examDate);    // 计算两个日期之间的差值
+        System.out.println("使用Period类，距离2024高考还剩下" + (period.getDays() + period.getMonths() * 30 + period.getYears() * 365) + "天");
     }
 
     private static void countDownUsingToEpochDay(LocalDate currentDate, LocalDate examDate) {
