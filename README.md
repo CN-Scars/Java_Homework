@@ -31,7 +31,7 @@
   - [实验报告8](./Experiment_8/document)
   - [实验8各任务代码](./Experiment_8/src/main/java/org/scars)
 - [实验 9](./Experiment_7)
-  - 实验报告9（暂缺）
+  - [实验报告9](./Experiment_9/document)
   - [实验9各任务代码](./Experiment_9/src/main/java/org/scars)
 
 ## 安装

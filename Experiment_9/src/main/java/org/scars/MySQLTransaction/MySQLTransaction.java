@@ -4,6 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
+
 public class MySQLTransaction {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/test"; // 数据库地址
