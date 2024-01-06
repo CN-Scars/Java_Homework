@@ -36,6 +36,9 @@
 - [实验 10](./Experiment_10)
   - [实验报告10](./Experiment_10/document)
   - [实验10各任务代码](./Experiment_10/src/main/java/org/scars)
+- [综合实验](./Experiment_Comprehensive)
+  - [综合实验](./Experiment_Comprehensive/document)
+  - [综合实验](./Experiment_Comprehensive/src/main/java/org/scars)
 
 ## 安装
 
