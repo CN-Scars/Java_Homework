@@ -27,12 +27,15 @@
 - [实验 7](./Experiment_7)
   - [实验报告7](./Experiment_7/document)
   - [实验7各任务代码](./Experiment_7/src/main/java/org/scars)
-- [实验 8](./Experiment_7)
+- [实验 8](./Experiment_8)
   - [实验报告8](./Experiment_8/document)
   - [实验8各任务代码](./Experiment_8/src/main/java/org/scars)
-- [实验 9](./Experiment_7)
+- [实验 9](./Experiment_9)
   - [实验报告9](./Experiment_9/document)
   - [实验9各任务代码](./Experiment_9/src/main/java/org/scars)
+- [实验 10](./Experiment_10)
+  - [实验报告10](./Experiment_10/document)
+  - [实验10各任务代码](./Experiment_10/src/main/java/org/scars)
 
 ## 安装
 
